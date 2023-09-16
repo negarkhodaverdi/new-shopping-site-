@@ -1,0 +1,20 @@
+[
+    {
+        "label": "x",
+        "kind": 5,
+        "importPath": "new",
+        "description": "new",
+        "peekOfCode": "x = name.count(\"A\")\nY = name.count(\"a\")\nz=x+y:\nprint(z)",
+        "detail": "new",
+        "documentation": {}
+    },
+    {
+        "label": "Y",
+        "kind": 5,
+        "importPath": "new",
+        "description": "new",
+        "peekOfCode": "Y = name.count(\"a\")\nz=x+y:\nprint(z)",
+        "detail": "new",
+        "documentation": {}
+    }
+]
